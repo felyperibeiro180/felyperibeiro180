@@ -4,21 +4,11 @@
 - 🌱 Estudando Java e C#
 - 😄 Pronouns: ele/dele
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true" />
-</picture>
-
-
-<a href="https://github.com/felyperibeiro180/convoychat">
-  <img height=188 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=felyperibeiro180&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felyperibeiro180&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 ##
