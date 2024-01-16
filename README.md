@@ -6,7 +6,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -15,6 +15,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=felyperibeiro180&show_icons=true" />
 </picture>
+
+##
+
+<a href="https://github.com/felyperibeiro180/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felyperibeiro180&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 ##
 
